@@ -22,3 +22,9 @@ main
 .vendor/go19
 /bin
 /build
+
+### IntelliJ IDEA ###
+.idea
+*.iws
+*.iml
+*.ipr
